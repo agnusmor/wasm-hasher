@@ -1,0 +1,15 @@
+{
+  "name": "node-hasher",
+  "version": "1.0.0",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "formdata-node": "^6.0.3"
+  }
+}
