@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "formdata-node": "^6.0.3"
-  }
+  "description": ""
 }
